@@ -13,6 +13,27 @@ body {
     background-size: cover;
     background-position: center;
 }
+.landing-page {
+    display: flex;
+    padding: 200px;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.tagline {
+    color: #fff;
+    font-weight: 700;
+    font-size: 48px;
+}
+
+.description {
+    color: #fff;
+    font-weight: normal;
+    font-size: 20px;
+}
+
 header{
     position: fixed;
     top: 0;
