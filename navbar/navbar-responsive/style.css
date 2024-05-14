@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #d6eff4;
+}
+
+.header{
+    background: #212121;
+    margin: 0;
+    padding: 20px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    text-decoration: none;
+    color: #d6eff4;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+.navbar a{
+    margin-left: 20px;
+    text-decoration: none;
+    color: #d6eff4;
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.tombol{
+    display: none;
+}
+
