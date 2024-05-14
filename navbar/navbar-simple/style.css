@@ -52,7 +52,6 @@ header{
     font-weight: 700; 
     color: #fff;
     text-decoration: none;
-   
 }
 
 .navbar a {
@@ -60,7 +59,6 @@ header{
     color:#fff;
     text-decoration: none;
     margin-left: 20px;
-    
 }
 
 .navbar a::before{
